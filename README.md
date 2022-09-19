@@ -19,7 +19,10 @@
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-090909?style=for-the-badge&logo=Mongoose)
 ![Google Maps](https://img.shields.io/badge/-Google_Maps-090909?style=for-the-badge&logo=GoogleMaps)
+![JSON Web Tokens](https://img.shields.io/badge/-JSON_Web_Tokens-090909?style=for-the-badge&logo=JSONWebTokens)
+![bcrypt](https://img.shields.io/badge/-bcrypt-090909?style=for-the-badge&logo=bcrypt)
 
-Follow me
+## Follow me
 
-
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://web.telegram.org/z/#1283203590)
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/goldgamer97)
