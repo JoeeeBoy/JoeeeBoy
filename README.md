@@ -1,8 +1,8 @@
 [![Header](https://github.com/JoeeeBoy/JoeeeBoy/blob/main/assets/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.png?raw=true)](https://vk.com/goldgamer97)
 
 ## Я занимаюсь программированием и являюсь фулл стек разработчиком
-
-## Languages and Tools
+ 
+## Используемые технологии и языки
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=#E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
@@ -22,7 +22,7 @@
 ![JSON Web Tokens](https://img.shields.io/badge/-JSON_Web_Tokens-090909?style=for-the-badge&logo=JSONWebTokens)
 ![bcrypt](https://img.shields.io/badge/-bcrypt-090909?style=for-the-badge&logo=bcrypt)
 
-## Follow me
+## Мои контакты
 
 [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://web.telegram.org/z/#1283203590)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/goldgamer97)
